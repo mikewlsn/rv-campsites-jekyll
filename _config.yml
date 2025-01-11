@@ -1,0 +1,13 @@
+# _config.yml
+title: RV Campsites Jekyll
+description: "A Jekyll site to display a CSV in a DataTable"
+theme: minima  # or any theme you like
+plugins:
+  - jekyll-feed
+  # GitHub Pages allows certain plugins by default
+
+# If your site is at https://yourusername.github.io/rv-campsites-jekyll/,
+# then baseurl can be: /rv-campsites-jekyll
+# If you're using a custom domain or root domain, you can set it to "".
+baseurl: "/rv-campsites-jekyll" 
+url: "https://<YourUsername>.github.io"
